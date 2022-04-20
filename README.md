@@ -13,7 +13,7 @@ or_data=imread('原图像2.png');
 修改imread参数（设置为你自己的图片）  
 3. 遗传/退火算法做法：  
 遗传：  
-(1). 运行"GA_TSP.m"文件，得到"sol_best_GA.m"最优路径  
+（1）运行"GA_TSP.m"文件，得到"sol_best_GA.m"最优路径  
 （2）运行"draw2.m",生成"test.gif"所得的一笔画校徽的动图；或者运行”draw.m”，生成"test.mp4"所得一笔画校徽的视频文件  
 退火：  
 （1）运行"main.m"文件，以下同  
